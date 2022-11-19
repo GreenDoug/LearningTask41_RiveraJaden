@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MathProblem</string>
+    <string name="title">Math Problem</string>
+    <string name="v1">Input Value 1</string>
+    <string name="v2">Input Value 2</string>
+    <string name="v3">Input Value 3</string>
+    <string name="op1">+</string>
+    <string name="op2">-</string>
+    <string name="button">Solve</string>
+    <string name="close">Close</string>
+    <string name="answer">Answer</string>
+</resources>
