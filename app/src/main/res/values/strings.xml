@@ -1,6 +1,8 @@
 <resources>
     <string name="app_name">MathProblem</string>
     <string name="title">Math Problem</string>
+    <string name="desc">Input any 2 numbers to add both of them</string>
+    <string name="desctwo">Then, input any number to subtract the sum of the 2 numbers before</string>
     <string name="v1">Input Value 1</string>
     <string name="v2">Input Value 2</string>
     <string name="v3">Input Value 3</string>
